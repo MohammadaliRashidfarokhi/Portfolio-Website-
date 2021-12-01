@@ -1,7 +1,7 @@
 # A01
 Build a website
 
-![Uploading Presentation.gif…]()
+![Presentation](https://user-images.githubusercontent.com/70851390/144250424-d6017fae-2f4b-4a14-9c8a-f0d210dc7c6f.gif)
 
 1. Did you know and/or had used HTML and CSS before this assignment?
 Yes, I have purchased a course from the udemy which was about HTML and CSS. Back then, I have created a personal project based on the Vikings series. It was a simple web page.
